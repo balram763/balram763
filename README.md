@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hey there 👋, I'm [BALRAM DHAKAD]</h1>
 <h3 align="center">Full Stack Developer | MERN Enthusiast | Problem Solver</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -18,13 +18,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-balram763&show_icons=true&theme=radical" alt="balram763" />
-</p>
-## Hi there 👋
 
 <!--
 **balram763/balram763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
