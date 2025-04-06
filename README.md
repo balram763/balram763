@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN STACK PROJECT**
 - 💬 Ask me about **MERN stack, APIs, MongoDB performance, or chai ☕**
-- 📫 How to reach me: **balramdhakad763.com**
+- 📫 How to reach me: **balramdhakad763@gmail.com**
 - ⚡ Fun fact: I code best with some lo-fi beats and chai!
 
 ---
